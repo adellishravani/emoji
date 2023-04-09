@@ -1,0 +1,25 @@
+.nav {
+  background-color: #9796f0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.logo {
+  height: 80px;
+  width: 80px;
+}
+.heading {
+  color: beige;
+  font-size: 30px;
+}
+.scores {
+  color: blanchedalmond;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.self {
+  margin: 10px;
+}

@@ -1,0 +1,9 @@
+.emojis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 5px;
+  list-style-type: none;
+  background-color: rgb(170, 104, 231);
+}

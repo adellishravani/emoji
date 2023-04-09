@@ -1,0 +1,9 @@
+.emojicard {
+  padding: 3px;
+  margin: 5px;
+  border-style: solid;
+  border-color: azure;
+  background-color: rgb(208, 181, 226);
+  width: 300px;
+  border-radius: 5px;
+}
